@@ -1,0 +1,63 @@
+body{
+      margin: auto 0;
+      background-image: url('wov.png');
+    }
+nav{  
+    position: relative;
+      min-width: 100%;
+      background-color: black;
+      text-align: center;
+    }
+.marginr{
+  margin: auto 0;
+}
+.paddingr{
+  padding: 0;
+}
+.none{
+      list-style: none;
+    }
+.center{
+      text-align: center;
+    }
+.inline-nav{
+      display: inline-block;
+      margin: 10px;
+    }
+.left-sidebar{
+      position: relative;
+      min-width: 15%;
+      min-height: 1000px;
+      float: left;
+      border-right: 1px solid black;
+      padding-left: 5%;
+    }
+.blog-pic{
+    position: relative;
+    max-width: 25%;
+      float: left;
+      margin-right: 5px;
+    }
+figcaption{
+      text-align: center; 
+    }
+.right{
+      position: relative;
+      float: right;
+      max-width: 50%;
+    }
+.post{
+      padding-right: 10%;
+      margin-bottom: 35px;
+      margin-top:35px;
+    }
+.row{
+      clear: right;
+      min-width: 60%;
+      max-width: 75%; 
+    }
+footer{
+  clear: both;
+  min-width: 100%;
+  background-color: burlywood;
+}
