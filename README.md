@@ -1,0 +1,1 @@
+Fullsize blog mock up
